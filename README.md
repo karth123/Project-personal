@@ -13,3 +13,6 @@ Sum xi upto (n-1) is < 1
 
 In other words,
 Find the expected number of numbers you need to choose in order to get a sum just greater than 1
+
+
+P2: Rugved task alloted to get familiar with numpy, pandas and matplotlib libraries.
