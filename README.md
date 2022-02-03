@@ -16,3 +16,4 @@ Find the expected number of numbers you need to choose in order to get a sum jus
 
 
 P2: Rugved task alloted to get familiar with numpy, pandas and matplotlib libraries.
+![image](https://user-images.githubusercontent.com/36198779/152432692-9f7390f0-98e5-4e6c-8fa1-a679ca095b89.png)
